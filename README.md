@@ -12,4 +12,5 @@ print("Hello World!")
 <hr>
 
 *I live in Vaughan*
+
 ![](https://github.com/salmankhaliq22/Coding-Cheatsheet/blob/main/download.jfif)
